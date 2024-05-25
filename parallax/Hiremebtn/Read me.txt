@@ -1,0 +1,2 @@
+Make sure for using an empty content for making btn responsive
+content: "";
